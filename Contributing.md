@@ -62,7 +62,7 @@ included in the project:
    feature to tidy up your commits before making them public.
    If your change references an existing [issue](https://github.com/fabric8io/fabric8/issues?state=open) then use "fixes #123" in the commit message (using the correct issue number ;).
 
-5. Documentation chagnes is located in the [docs](docs) directory. Take a moment to consider if your code changes 
+5. Documentation changes are located in the [docs](docs) directory. Take a moment to consider if your code changes 
    should also be documented. You may need to update any of the existing topics, or create a new topic by adding a new `.md` file.
    A new file should be added into the table of contents which is the [summary](docs/SUMMARY.MD) file. 
 
